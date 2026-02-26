@@ -23,14 +23,4 @@ Welcome to my corner of cat octupus app. cocktupus? yeah. :P
 
 ---
 
-### 📊 My Coding Journey
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zep-sqrd&show_icons=true&theme=ocean" alt="zep-sqrd's stats" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zep-sqrd&layout=compact&theme=ocean" alt="Most used languages" />
-</p>
-
----
-
-**Feel free to check out my repos or just say hi!** 🚀
+**Feel free to check out my repos or just say hi!** 
